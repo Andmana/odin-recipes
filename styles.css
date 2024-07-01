@@ -19,6 +19,7 @@ h1 {
 }
 
 ul {
+    padding: 0%;
     column-count: 3;
     column-fill: balance;
     column-gap: 3em;
@@ -37,7 +38,7 @@ img {
         column-count: 1;
     }
     img {
-        width: 70%;
+        width: 80%;
         height: auto;
         margin-top: 50px;
         margin-bottom: 15px;

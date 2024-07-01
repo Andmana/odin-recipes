@@ -23,6 +23,20 @@ img {
     text-align: left;
 }
 
+@media (max-width: 1080px) {
+    .header, .body {
+        width: 90%;
+        margin: auto;
+    }
+    img {
+        width: 80%;
+        height: auto;
+        border-radius: 10px;
+        margin: auto;
+    }
+    
+}
+
 .steps, li {
     text-align: justify;
 }
